@@ -158,7 +158,6 @@ AG_Biomass = function(FIA_species_code,dbh){
   else if(FIA_species_code %in% c(741,747,470)){ #Salicaceae , 0.35 spg
     b0 = -2.6863	
     b1 = 2.4561
-    
   }
   else if(FIA_species_code %in% c(742,743,740,746,927,920)){ #Salicaceae >= 0.35 spg
     b0 = -2.4441	
