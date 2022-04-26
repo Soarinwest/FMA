@@ -1,11 +1,11 @@
 ###########################################################################################################################################################
-# Title: Ditermins plot expansion factor from sample design infromation
+# Title: Determiners plot expansion factor from sample design information
 # Writer: Soren Donisvitch 
 # Date 4/23/22
 # Cited material: 
 # Contact: soren.donisvitch@gmail.com
 # Requirements: Basic knowledge of sampling methodology 
-# Reliances : STANDARDIZE_UNIT
+# Reliance: STANDARDIZE_UNIT
 ###########################################################################################################################################################
 #
 # This function will return the plot expansion factor (EXPF) which controls how information collected for a single sample tree will be expanded to a 
